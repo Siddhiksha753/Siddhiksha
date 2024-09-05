@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<style>
+ #htmlpara{bcckground- color: powerblue;}
+
+#Csspara{background-color:#FFFF00;}
+
+.classpara{font- family:arial; color: black; font- size:50px; margin: 10%}
+
+</style>
+<body style="align: center;">
+
+<p id="htmlpara" title = "HTML!" class= "classpara"> HTML stands for Hyper Text Markup Language for creating Web pages. </p>
+<p id= "Csspara" title= "CSS!" class="classpara"> CSS standsfor Cascading Style Sheets which is used to style a Web page. </p>
+
+ </body>
+ </html>
